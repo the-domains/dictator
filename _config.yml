@@ -1,0 +1,28 @@
+name: dictator
+favicon: null
+layout_spectrum: 0.394630229100585
+typography_spectrum: 0.08050377038307488
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9058543716091663
+  lightness: 0.6792737990617752
+  saturation: 0.3751868999097496
+  rhythmicContrast: 0.910288602579385
+purpose: []
